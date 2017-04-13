@@ -3,6 +3,9 @@
 ## Introduction
 The project works as a bridge between standalone logs systems and the DXL fabric. In this way it is possibile to share log update information in real time within the dxl fabric.
 
+
+![Alt text](https://cloud.githubusercontent.com/assets/24607076/25011318/db5a38ba-2064-11e7-9e2d-480ec3c19c18.png "Structure")
+
 ## Requirements
 ####  Server
 
